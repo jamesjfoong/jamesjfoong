@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [jamesjf7.github.io](http://jamesjf7.github.io)
+* 🖥️  See my portfolio at [jamesjfoong.vercel.app](https://jamesjfoong.vercel.app)
 * ✉️  You can contact me at [jamesjfoong2000@gmail.com](mailto:jamesjfoong2000@gmail.com)
 * 🧠  I'm learning new framework, blockchain, AI and many more
 * 🤝  I'm open to collaborating on Frontend Project
