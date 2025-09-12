@@ -10,8 +10,8 @@ Software Engineer
 * 🧠  I'm learning new framework, blockchain, AI and many more
 * 🤝  I'm open to collaborating on Frontend Project
 
-<a href="https://www.github.com/jamesjf7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jamesjf7?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a>
+<a href="https://www.github.com/jamesjfoong" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jamesjfoong?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a>
 
 ### Skills
 
@@ -55,12 +55,12 @@ src="https://img.shields.io/github/followers/jamesjf7?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jamesjf7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jamesjf7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/james-f-308b6111b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/jamesjfoong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jamesjfoong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/james-f-308b6111b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jamesjf7"><img src="https://github-readme-stats.vercel.app/api?username=jamesjf7&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="jamesjf7's GitHub stats" /></a>
+<a href="http://www.github.com/jamesjfoong"><img src="https://github-readme-stats.vercel.app/api?username=jamesjfoong&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="jamesjfoong's GitHub stats" /></a>
 
-<a href="http://www.github.com/jamesjf7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesjf7&stroke=ffffff&background=134e4a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jamesjfoong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesjfoong&stroke=ffffff&background=134e4a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
